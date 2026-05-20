@@ -1,0 +1,796 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CV - Syphax FEREKA (English)</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,600;0,700;1,400&family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  @page {
+    size: A4;
+    margin: 0;
+  }
+
+  body {
+    font-family: 'Open Sans', Calibri, Arial, sans-serif;
+    font-size: 13.5px;
+    line-height: 1.41;
+    color: #000;
+    background: #6b7b8d;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+  }
+
+  .page {
+    width: 210mm;
+    height: 297mm;
+    background: #fff;
+    display: flex;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.35);
+    overflow: hidden;
+    position: relative;
+  }
+
+  /* ========== SIDEBAR ========== */
+  .sidebar {
+    width: 210px;
+    background: linear-gradient(180deg, #1e3a5f 0%, #254a6f 100%);
+    color: #fff;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+  }
+
+  /* Subtle decorative accent on right edge of sidebar */
+  .sidebar::after {
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    background: linear-gradient(180deg, #4a90c4 0%, #1e3a5f 50%, #4a90c4 100%);
+  }
+
+  .sidebar-inner {
+    padding: 15px 16px 12px 16px;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+
+  /* Photo */
+  .photo-container {
+    text-align: center;
+    margin-bottom: 8px;
+  }
+
+  .photo-container img {
+    width: 155px;
+    height: 155px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid rgba(255,255,255,0.25);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  }
+
+  .photo-placeholder {
+    width: 155px;
+    height: 155px;
+    border-radius: 50%;
+    border: 3px solid rgba(255,255,255,0.25);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #15304d;
+    color: rgba(255,255,255,0.4);
+    font-size: 11px;
+    margin: 0 auto;
+  }
+
+  /* Name */
+  .name-block {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  .name-block .first-name {
+    font-family: 'Raleway', 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    display: block;
+    line-height: 1.15;
+  }
+
+  .name-block .last-name {
+    font-family: 'Raleway', 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    display: block;
+    line-height: 1.15;
+  }
+
+  /* Contact info */
+  .contact-info {
+    font-size: 11px;
+    margin-bottom: 4px;
+  }
+
+  .contact-info .contact-line {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 4px;
+  }
+
+  .contact-info .contact-icon {
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .contact-info .contact-icon svg {
+    width: 13px;
+    height: 13px;
+    fill: #fff;
+  }
+
+  .contact-info a {
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .contact-info a:hover {
+    text-decoration: underline;
+  }
+
+  /* Sidebar separator */
+  .sidebar-separator {
+    margin: 6px 0;
+    height: 1px;
+    background: rgba(255,255,255,0.4);
+  }
+
+  /* Sidebar sections */
+  .sidebar-section-title {
+    font-family: 'Raleway', 'Open Sans', sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    margin-bottom: 4px;
+    color: #fff;
+    padding-bottom: 3px;
+  }
+
+  .sidebar-section {
+    margin-bottom: 2px;
+  }
+
+  .sidebar-section .sub-title {
+    font-weight: 700;
+    font-size: 11px;
+    margin-bottom: 3px;
+    color: #fff;
+  }
+
+  .sidebar-section ul {
+    list-style: none;
+    padding-left: 0;
+    font-size: 10.5px;
+  }
+
+  .sidebar-section ul li {
+    position: relative;
+    padding-left: 12px;
+    margin-bottom: 2.5px;
+    line-height: 1.35;
+  }
+
+  .sidebar-section ul li::before {
+    content: '';
+    position: absolute;
+    left: 1px;
+    top: 4.5px;
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.75);
+  }
+
+  .sidebar-section ul li b,
+  .sidebar-section ul li strong {
+    font-weight: 700;
+  }
+
+  /* Qualities two columns */
+  .qualities-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3px 8px;
+    font-size: 9.5px;
+  }
+
+  .qualities-grid .quality-item {
+    position: relative;
+    padding-left: 12px;
+  }
+
+  .qualities-grid .quality-item::before {
+    content: '';
+    position: absolute;
+    left: 1px;
+    top: 4px;
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.75);
+  }
+
+  /* Sidebar skills tags */
+  .sidebar-skill-group {
+    margin-bottom: 5px;
+  }
+
+  .sidebar-skill-label {
+    font-weight: 700;
+    font-style: italic;
+    font-size: 10px;
+    margin-bottom: 3px;
+    color: #fff;
+  }
+
+  .sidebar-skill-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3px;
+  }
+
+  .skill-tag-sm {
+    display: inline-block;
+    padding: 1px 6px;
+    border: 1px solid rgba(255,255,255,0.6);
+    border-radius: 3px;
+    font-size: 9px;
+    color: #fff;
+    background: rgba(255,255,255,0.15);
+    white-space: nowrap;
+  }
+
+  /* ========== MAIN CONTENT ========== */
+  .main-content {
+    flex: 1;
+    padding: 14px 20px 12px 22px;
+    background: #fff;
+  }
+
+  /* Title */
+  .main-title {
+    font-family: 'Raleway', 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #1e3a5f;
+    text-align: center;
+    margin-bottom: 6px;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+  }
+
+  .main-subtitle {
+    font-size: 13px;
+    color: #1a1a1a;
+    text-align: justify;
+    margin-bottom: 10px;
+    line-height: 1.48;
+  }
+
+  /* Main sections */
+  .section-title {
+    font-family: 'Raleway', 'Open Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    color: #1e3a5f;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    padding-bottom: 3px;
+    margin-bottom: 6px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .section-title:first-of-type {
+    margin-top: 0;
+  }
+
+  .section-title span {
+    white-space: nowrap;
+  }
+
+  .section-title::after {
+    content: '';
+    flex: 1;
+    height: 2px;
+    background: #1e3a5f;
+  }
+
+  /* Experience entry */
+  .entry {
+    margin-bottom: 6px;
+  }
+
+  .entry-header {
+    display: flex;
+    align-items: baseline;
+    margin-bottom: 2px;
+    flex-wrap: wrap;
+  }
+
+  .entry-date {
+    font-size: 10.5px;
+    color: #777;
+    width: 65px;
+    flex-shrink: 0;
+    font-weight: 600;
+  }
+
+  .entry-title {
+    font-weight: 700;
+    font-size: 12px;
+    color: #000;
+    flex: 1;
+  }
+
+  .entry-org {
+    font-size: 10.5px;
+    font-style: italic;
+    color: #1e3a5f;
+    text-decoration: underline;
+    margin-left: auto;
+    font-weight: 600;
+  }
+
+  .entry-details {
+    margin-left: 65px;
+    font-size: 11px;
+    color: #1a1a1a;
+  }
+
+  .entry-details p {
+    margin-bottom: 2px;
+    line-height: 1.4;
+  }
+
+  .entry-details ul {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  .entry-details ul li {
+    position: relative;
+    padding-left: 11px;
+    margin-bottom: 2px;
+    line-height: 1.36;
+  }
+
+  .entry-details ul li::before {
+    content: '';
+    position: absolute;
+    left: 1px;
+    top: 4.5px;
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background: #1e3a5f;
+    opacity: 0.5;
+  }
+
+  /* Education sub-details */
+  .edu-description {
+    margin-left: 65px;
+    font-size: 11px;
+    color: #1a1a1a;
+    margin-bottom: 2px;
+    line-height: 1.4;
+  }
+
+  /* Technical skills - tag style */
+  .skills-table {
+    width: 100%;
+    font-size: 9.5px;
+    border-collapse: collapse;
+  }
+
+  .skills-table tr {
+    vertical-align: top;
+  }
+
+  .skills-table td {
+    padding: 3px 0;
+  }
+
+  .skills-table .skill-label {
+    font-weight: 700;
+    font-style: italic;
+    color: #000;
+    white-space: nowrap;
+    padding-right: 10px;
+    width: 100px;
+  }
+
+  .skills-table .skill-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+  }
+
+  .skill-tag {
+    display: inline-block;
+    padding: 2px 8px;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    font-size: 9px;
+    color: #000;
+    background: #fff;
+    white-space: nowrap;
+  }
+
+  /* Print styles */
+  @media print {
+    @page {
+      size: A4;
+      margin: 0;
+    }
+    body {
+      background: none;
+      padding: 0;
+      margin: 0;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+    .page {
+      box-shadow: none;
+      margin: 0;
+      width: 210mm;
+      height: 297mm;
+    }
+  }
+</style>
+</head>
+<body>
+
+<div class="page">
+  <!-- ========== SIDEBAR ========== -->
+  <div class="sidebar">
+    <div class="sidebar-inner">
+
+      <!-- Photo -->
+      <div class="photo-container">
+        <img src="SyphaxFEREKA.png" alt="Photo Syphax FEREKA"
+             onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+        <div class="photo-placeholder" style="display:none;">Photo</div>
+      </div>
+
+      <!-- Name -->
+      <div class="name-block">
+        <span class="first-name" style="display:inline;">Syphax </span><span class="last-name" style="display:inline;">FEREKA</span>
+      </div>
+
+      <!-- Contact -->
+      <div class="contact-info">
+        <div class="contact-line">
+          <span class="contact-icon">
+            <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 3c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3zm0 14.2c-2.5 0-4.71-1.28-6-3.22.03-1.99 4-3.08 6-3.08 1.99 0 5.97 1.09 6 3.08-1.29 1.94-3.5 3.22-6 3.22z"/></svg>
+          </span>
+          <span>27 years old</span>
+        </div>
+        <div class="contact-line">
+          <span class="contact-icon">
+            <svg viewBox="0 0 24 24"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
+          </span>
+          <span>07 51 10 41 68</span>
+        </div>
+        <div class="contact-line">
+          <span class="contact-icon">
+            <svg viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>
+          </span>
+          <a href="mailto:fereka.syphax@gmail.com">fereka.syphax@gmail.com</a>
+        </div>
+        <div class="contact-line">
+          <span class="contact-icon">
+            <svg viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
+          </span>
+          <span>Paris, France</span>
+        </div>
+        <div class="contact-line">
+          <span class="contact-icon">
+            <svg viewBox="0 0 24 24"><path d="M19 3a2 2 0 012 2v14a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h14m-.5 15.5v-5.3a3.26 3.26 0 00-3.26-3.26c-.85 0-1.84.52-2.32 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 011.4 1.4v4.93h2.79M6.88 8.56a1.68 1.68 0 001.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 00-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37h2.77z"/></svg>
+          </span>
+          <a href="https://www.linkedin.com/in/syphax-fereka" target="_blank">syphax-fereka</a>
+        </div>
+        <div class="contact-line">
+          <span class="contact-icon">
+            <svg viewBox="0 0 24 24"><path d="M18.92 6.01C18.72 5.42 18.16 5 17.5 5h-11c-.66 0-1.21.42-1.42 1.01L3 12v8c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1h12v1c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-8l-2.08-5.99zM6.5 16c-.83 0-1.5-.67-1.5-1.5S5.67 13 6.5 13s1.5.67 1.5 1.5S7.33 16 6.5 16zm11 0c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zM5 11l1.5-4.5h11L19 11H5z"/></svg>
+          </span>
+          <span>Driving License B</span>
+        </div>
+      </div>
+
+      <div class="sidebar-separator"></div>
+
+      <!-- Technical Skills -->
+      <div class="sidebar-section">
+        <div class="sidebar-section-title">TECHNICAL SKILLS</div>
+        <div class="sidebar-skill-group">
+          <div class="sidebar-skill-label">Simulation/Post-processing</div>
+          <div class="sidebar-skill-tags">
+            <span class="skill-tag-sm">Ansys Fluent</span>
+            <span class="skill-tag-sm">OpenFOAM</span>
+            <span class="skill-tag-sm">ParaView</span>
+            <span class="skill-tag-sm">ANSA</span>
+            <span class="skill-tag-sm">COMSOL</span>
+            <span class="skill-tag-sm">Salome Meshing</span>
+          </div>
+        </div>
+        <div class="sidebar-skill-group">
+          <div class="sidebar-skill-label">Programming</div>
+          <div class="sidebar-skill-tags">
+            <span class="skill-tag-sm">Fortran</span>
+            <span class="skill-tag-sm">Python</span>
+            <span class="skill-tag-sm">C</span>
+            <span class="skill-tag-sm">Matlab</span>
+            <span class="skill-tag-sm">Shell</span>
+            <span class="skill-tag-sm">HPC (MPI)</span>
+            <span class="skill-tag-sm">Git</span>
+          </div>
+        </div>
+        <div class="sidebar-skill-group">
+          <div class="sidebar-skill-label">Physics</div>
+          <div class="sidebar-skill-tags">
+            <span class="skill-tag-sm">Aerodynamics</span>
+            <span class="skill-tag-sm">Aerothermodynamics</span>
+            <span class="skill-tag-sm">Turbulence</span>
+            <span class="skill-tag-sm">Two-phase</span>
+            <span class="skill-tag-sm">Atomization</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="sidebar-separator"></div>
+
+      <!-- Languages -->
+      <div class="sidebar-section">
+        <div class="sidebar-section-title">LANGUAGES</div>
+        <ul>
+          <li><strong><u>French</u></strong> : Fluent (C2 level)</li>
+          <li><strong><u>English</u></strong> : Intermediate (C1 level)</li>
+          <li><strong><u>Arabic</u></strong> : Fluent</li>
+        </ul>
+      </div>
+
+      <div class="sidebar-separator"></div>
+
+      <!-- Scientific Activities -->
+      <div class="sidebar-section">
+        <div class="sidebar-section-title">SCIENTIFIC ACTIVITIES</div>
+        <div class="sub-title">Publications:</div>
+        <ul>
+          <li>Acta Mechanica (published)</li>
+          <li>MDPI Fluids (published)</li>
+          <li>T&amp;I 2022 (published)</li>
+          <li>Computers &amp; Fluids (submitted)</li>
+        </ul>
+        <div class="sub-title" style="margin-top:5px;">Presentations:</div>
+        <ul>
+          <li><strong>T&amp;I 2022</strong> : Elba, Italy (poster).</li>
+          <li><strong>CFC 2023</strong> : Cannes, France.</li>
+          <li><strong>ICNMMF 2024</strong> : Reykjavik, Iceland</li>
+        </ul>
+      </div>
+
+      <div class="sidebar-separator"></div>
+
+      <!-- Soft Skills -->
+      <div class="sidebar-section">
+        <div class="sidebar-section-title">SOFT SKILLS</div>
+        <ul>
+          <li><strong>Technical writing</strong> : 3 peer-reviewed publications</li>
+          <li><strong>Public speaking</strong> : 3 international conferences, teaching</li>
+          <li><strong>Cross-functional teamwork</strong> : CEA, Stellantis</li>
+          <li><strong>Self-driven</strong> : led 3-year PhD research project</li>
+        </ul>
+      </div>
+
+      <div class="sidebar-separator"></div>
+
+      <!-- Hobbies -->
+      <div class="sidebar-section">
+        <div class="sidebar-section-title">HOBBIES</div>
+        <ul>
+          <li><strong>Basketball</strong> : regular practice with colleagues.</li>
+          <li><strong>Hiking</strong> : occasional leisure practice</li>
+          <li><strong>Music</strong> : plays piano and guitar.</li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ========== MAIN CONTENT ========== -->
+  <div class="main-content">
+
+    <div class="main-title">Research and Development Engineer</div>
+    <div class="main-subtitle">
+      CFD engineer with 4 years of research experience in multiphase, turbulent, and compressible flow simulation, spanning both high-fidelity academic research and industrial application. Developed interface-capturing and CFD-DEM methods for CEA on the FUGU and YALES2 codes; validated aerodynamic simulations with close agreement to S2A wind tunnel data at Stellantis. Fluent in Fortran, Python, and C across HPC environments (MPI).
+    </div>
+
+    <!-- EXPERIENCE -->
+    <div class="section-title"><span>PROFESSIONAL AND ACADEMIC EXPERIENCE</span></div>
+
+    <div class="entry">
+      <div class="entry-header">
+        <span class="entry-date">2025</span>
+        <span class="entry-title">Research Engineer</span>
+        <span class="entry-org">Université Gustave Eiffel/ESYCOM</span>
+      </div>
+      <div class="entry-details">
+        <ul>
+          <li>Designed a <strong>CFD-DEM</strong> simulation pipeline for air quality sensor modeling on the <strong><em>YALES2</em></strong> HPC code,</li>
+          <li>Validated particle-laden flow models on <strong><em>YALES2</em></strong> across 3 configurations (fluidized bed, pipe fouling, inertial impaction),</li>
+          <li>Optimized collision modeling and drag force correlations in <strong>CFD-DEM</strong> for dilute regimes; extended particle/fluid interaction models (turbulence, drag, lubrication),</li>
+          <li>Implemented subgrid-scale (<strong>SGS</strong>) turbulent dispersion model for <strong>LES</strong>-coupled <strong>CFD-DEM</strong>.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="entry-header">
+        <span class="entry-date">2021 - 2024</span>
+        <span class="entry-title">PhD Researcher</span>
+        <span class="entry-org">Université Gustave Eiffel</span>
+      </div>
+      <div class="entry-details">
+        <ul>
+          <li>Developed and implemented resolved interface capturing methods in the <strong>FUGU</strong> in-house code for <strong>CEA</strong> (benchmarked against <strong>Ansys Fluent</strong>),</li>
+          <li>Characterized splashing mechanisms in liquid pool impacts under compressible conditions using <strong>VOF</strong> method,</li>
+          <li>Quantified <strong>Rayleigh-Plateau instability</strong> growth rates to study jet fragmentation and satellite droplet dynamics,</li>
+          <li>Built automated <strong>Python</strong>/<strong>ParaView</strong> pipeline for detection and counting of resuspended particles across simulation batches.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="entry-header">
+        <span class="entry-date">2021 - 2024</span>
+        <span class="entry-title">Part-time Lecturer in Thermodynamics</span>
+        <span class="entry-org">Université Gustave Eiffel</span>
+      </div>
+      <div class="entry-details">
+        <ul>
+          <li>Delivered practical sessions in numerical simulation on <strong>Ansys Fluent</strong>,</li>
+          <li>Taught thermodynamics and heat transfer (lectures and tutorials),</li>
+          <li>Taught thermal machines and heat pump systems (lectures and tutorials).</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="entry-header">
+        <span class="entry-date">2021</span>
+        <span class="entry-title">Aerodynamic Simulation Engineer</span>
+        <span class="entry-org">Groupe Stellantis</span>
+      </div>
+      <div class="entry-details">
+        <ul>
+          <li>Performed RANS aerodynamic simulation (k-ε Realizable) of the Citroën DS7; validated against <strong>S2A</strong> wind tunnel data (PIV + force balance), achieving close numerical/experimental agreement on drag and lift,</li>
+          <li>Conducted parametric study of 5 rear wheel configurations (rim porosity, track width ±6mm) and quantified their impact on drag and lift torsors,</li>
+          <li>Designed and simulated 3 air duct geometries in the wheel arch, achieving local drag reduction at the wheelhouse.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="entry-header">
+        <span class="entry-date">2018</span>
+        <span class="entry-title">Aeronautical Technician</span>
+        <span class="entry-org">Air Algérie</span>
+      </div>
+      <div class="entry-details">
+        <ul>
+          <li>Conducted maintenance inspections on turbojet and turboprop engines.</li>
+          <li>Validated post-maintenance engine performance on full-scale test bench (1:1).</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- EDUCATION -->
+    <div class="section-title"><span>EDUCATION</span></div>
+
+    <div class="entry">
+      <div class="entry-header">
+        <span class="entry-date">2021 - 2024</span>
+        <span class="entry-title">PhD in Fluid Mechanics</span>
+        <span class="entry-org">Université Gustave Eiffel</span>
+      </div>
+      <div class="edu-description">
+        Modeling and simulation of droplet and spray impacts on liquid pools.<br>
+        Simulation with the <strong>FUGU</strong> code developed at the <strong>MSME</strong> laboratory.
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="entry-header">
+        <span class="entry-date">2019 - 2021</span>
+        <span class="entry-title">MSc in Mechanics</span>
+        <span class="entry-org">Université Gustave Eiffel</span>
+      </div>
+      <div class="edu-description">
+        Modeling and Simulation in Fluid Mechanics and Heat Transfer.<br>
+        <u>Courses</u> : Fluid mechanics, heat transfer, turbulence,
+        multiphase flows, porous media, numerical methods, fluid and solid numerical simulation (<em>Ansys Fluent/Comsol Multiphysics</em>), acoustics.
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="entry-header">
+        <span class="entry-date">2015 - 2019</span>
+        <span class="entry-title">MSc in Aeronautical Sciences</span>
+        <span class="entry-org">IAES, Université de Blida</span>
+      </div>
+      <div class="edu-description">
+        Bachelor's and Master's 1 in aircraft propulsion.<br>
+        <u>Courses</u> : Fluid mechanics, heat transfer, thermodynamics
+        (<em>Internal combustion engines</em>), numerical methods, scientific programming
+        (<em>Fortran</em>), numerical simulation (Ansys Fluent), compressible flows.
+      </div>
+    </div>
+
+    <!-- ADDITIONAL ACTIVITIES -->
+    <div class="section-title"><span>ADDITIONAL ACTIVITIES</span></div>
+
+    <div class="entry">
+      <div class="entry-header">
+        <span class="entry-title">Activities Manager</span>
+        <span class="entry-org">Association MSFT</span>
+      </div>
+      <div class="entry-details" style="margin-left:0;">
+        <p>Organized events and hands-on training workshops (Ansys Fluent, Programming, CV writing) for engineering students.</p>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="entry-header">
+        <span class="entry-title">Workshop Facilitator</span>
+        <span class="entry-org">Association MSFT</span>
+      </div>
+      <div class="entry-details" style="margin-left:0;">
+        <p>Led Python scripting and MPI parallel programming (Fortran) workshops.</p>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="entry-header">
+        <span class="entry-title">PhD Student Representative at ED-SIE Doctoral School</span>
+        <span class="entry-org">École doctorale ED-SIE</span>
+      </div>
+      <div class="entry-details" style="margin-left:0;">
+        <p>Organized networking days and scientific events for the doctoral school. Liaison between PhD students and the doctoral school management.</p>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+</body>
+</html>
