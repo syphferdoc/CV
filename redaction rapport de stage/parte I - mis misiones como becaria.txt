@@ -1,0 +1,211 @@
+PARTE I — MIS MISIONES COMO BECARIA
+
+
+I.1 Conocimiento y verificación del catálogo
+
+La actividad principal de Flamenco Agency consiste en distribuir espectáculos de
+flamenco y danza española en los mercados internacionales. La agencia no es la
+representante exclusiva de las compañías con las que trabaja, lo que le permite
+proponer espectáculos de varias compañías a teatros y festivales de todo el mundo.
+
+Por esta razón, una de mis primeras tareas fue familiarizarme con el catálogo
+completo y verificar la información de cada producción. Conocer bien este catálogo
+era indispensable para mi trabajo diario: cada propuesta que enviaba incluía tres
+espectáculos seleccionados según el perfil del destinatario, de modo que el catálogo
+no era solo un conjunto de producciones, sino la herramienta de argumentación
+comercial sobre la que se apoyaba toda mi labor de prospección. Comprender su
+contenido y su organización era, así, el punto de partida indispensable antes de
+dirigirme a los programadores internacionales.
+
+El catálogo, disponible en el sitio web de la agencia (flamencoagency.com), incluye
+más de una decena de producciones distribuidas principalmente entre dos compañías:
+
+- Barcelona Flamenco Ballet (BFB), con sede en Barcelona: Storm of Love, Luxuria,
+  Romeo y Julieta, Flamenco Fusion.
+- Granada Flamenco Ballet (GFB), con sede en Granada/Málaga: Carmen (en varias
+  versiones), Dance for Me (Báilame), Flamenco Suite, Flamenco Roots, entre otros.
+
+A estas producciones se añaden otros formatos más pequeños, como 4 Women 4, Flamenco
+Piano & Dance, Sangre Gitana o Argentine Tango.
+
+
+I.2 Prospección comercial y gestión de bases de datos
+
+La tarea principal en términos de tiempo fue la prospección comercial internacional.
+El objetivo era identificar y contactar festivales, teatros de ópera y centros
+culturales susceptibles de programar espectáculos del catálogo para las temporadas
+2027 y 2028, en Europa principalmente, pero también en algunos mercados fuera del
+continente.
+
+Trabajábamos con dos fuentes principales de datos. La primera era un archivo Excel
+proporcionado por Redscena, que el señor Trancoso nos enviaba directamente con una
+lista de contactos ya identificados; mi trabajo consistía en completar y verificar
+las informaciones que faltaban (correos electrónicos, nombres de los programadores,
+tipo de institución) antes de poder enviar las propuestas. La segunda fuente era una
+base de datos del Festival de Aviñón del año anterior, adquirida por la agencia, que
+contenía más de 2.500 contactos del sector cultural europeo. Esta base incluía
+perfiles muy variados —técnicos, medios de comunicación, artistas, pero también
+decisores directamente vinculados a la programación artística—, de modo que mi
+trabajo consistía en clasificar y filtrar estos contactos para conservar únicamente
+los leads pertinentes (directores artísticos, programadores, directores de teatro) y
+eliminar los perfiles que no correspondían al objetivo comercial de la agencia. Los
+contactos seleccionados se trasladaban a un nuevo archivo Excel organizado, con el
+nombre del festival o teatro, el país, el nombre del contacto y su correo electrónico.
+Cuando la dirección de correo no estaba disponible, la buscaba en LinkedIn, en los
+sitios web oficiales de los festivales o en cualquier otra plataforma donde apareciera
+el nombre del contacto.
+
+El trabajo de prospección era colectivo: los becarios trabajábamos sobre los mismos
+archivos en equipo, lo que requería coordinación y comunicación constante para evitar
+duplicaciones.
+
+
+I.3 Redacción de propuestas, email marketing y traducción
+
+Una vez identificados los contactos, redactaba los correos de presentación. Cada
+propuesta incluía tres espectáculos del catálogo seleccionados según el perfil del
+destinatario. A diferencia del email marketing con Mailchimp, estos correos eran
+redactados casi desde cero para cada contacto, lo que permitía una personalización
+real del mensaje. El criterio de selección de los espectáculos variaba según varios
+factores: el tipo de festival (ópera, danza contemporánea, world music, teatro…), el
+país y su cultura artística, el tamaño estimado del escenario, y el nivel de
+conocimiento previo del flamenco en ese mercado.
+
+Las propuestas estaban escritas principalmente en inglés —la lengua de trabajo
+predominante en las comunicaciones internacionales— y en español para los contactos
+de España y América Latina. Cada correo incluía una breve presentación de la agencia,
+los tres espectáculos propuestos con sus enlaces de vídeo (YouTube) y, cuando era
+relevante, un enlace al dossier artístico disponible en OneDrive. Para los contactos
+más importantes, la propuesta era revisada por el director o la tutora de prácticas
+antes del envío. Durante mis dos meses de prácticas, envié más de 200 propuestas
+comerciales en total. A modo de ejemplo, una propuesta en inglés comenzaba así: "Dear
+[Name], I am contacting you on behalf of Flamenco Agency, based in Seville, to
+introduce three productions that we believe would be particularly well suited to your
+2027 programme. […] We would be delighted to discuss which format could best match
+your artistic line and your plans for 2027."; y una en español: "Estimada [Nombre],
+como compañeros de las artes escénicas, nos gustaría compartir nuestras próximas
+giras de 2026: Ballet Flamenco de Barcelona con 'Carmen' […]. ¿Podríais considerar
+estas propuestas para las próximas temporadas 2027 y 2028?". Cuando un contacto
+respondía, el seguimiento era compartido: a veces respondíamos nosotros, a veces el
+señor Trancoso tomaba el relevo según la naturaleza de la respuesta.
+
+Participé también en la creación de campañas de email marketing con Mailchimp. Estas
+campañas tenían como objetivo informar a la red de contactos de Flamenco Agency sobre
+los próximos espectáculos y giras confirmadas, con un tono más institucional y visual
+que los correos de prospección individuales. Al principio creaba los templates desde
+cero; después aprendí a utilizar la función "replicate", que permite duplicar un
+modelo existente y adaptarlo para cada nueva campaña, lo que garantizaba una
+presentación uniforme y profesional y ahorraba un tiempo considerable. Diseñé el
+contenido visual y textual de campañas para varios eventos confirmados, entre ellos:
+
+- Sangre Gitana en el World Roma Festival Khamoro (Praga, mayo 2026).
+- Argentine Tango en el Jūrmala Festival — Dzintari Concert Hall (Letonia, julio 2026).
+- Barcelona Flamenco Ballet: Storm of Love en el Valley of Arts Festival (Hungría,
+  julio 2026).
+- Gira de Rumanía 2026: Carmen (GFB) en el Sibiu International Theatre Festival, y
+  Dance for Me (GFB) en la Opera Națională Română de Cluj-Napoca / Opera Aperta
+  Festival.
+
+El envío final de las campañas era responsabilidad del señor Trancoso, que las
+revisaba y validaba antes de programarlas. Como cada campaña se difunde en función del
+calendario del evento correspondiente, la mayoría de las que diseñé estaban previstas
+para fechas posteriores y aún no se habían enviado al término de mis prácticas. La
+única campaña efectivamente enviada durante mi período fue la de Sangre Gitana (World
+Roma Festival Khamoro, Praga), de la que pude consultar los resultados completos en
+Mailchimp.
+
+Esta campaña se dirigió a unos 720 contactos, de los cuales 666 (el 92,5 %) fueron
+entregados correctamente. Registró una tasa de apertura del 11,6 % (77 aperturas
+únicas) y una tasa de clics del 0,90 % (6 contactos hicieron clic, con 70 clics en
+total). Estas cifras, modestas en apariencia, deben interpretarse en el contexto
+específico de una base de prospección B2B "en frío": a diferencia de una newsletter
+dirigida a suscriptores voluntarios, los destinatarios eran programadores y directores
+artísticos que no se habían inscrito previamente, lo que explica un nivel de apertura
+más bajo y resulta coherente con la baja tasa de respuesta característica del sector,
+analizada en la Parte III. La tasa de rebote del 7,5 % (54 direcciones no válidas)
+confirma además la importancia del trabajo de verificación y limpieza de las bases de
+datos mencionado anteriormente, ya que una parte de los contactos heredados estaba
+obsoleta. Por último, el enlace más clicado fue, con diferencia, el vídeo de YouTube
+del espectáculo (35,2 % de los clics), por delante de la página de la compañía y de la
+del propio festival: un dato significativo, porque confirma que el vídeo es la
+herramienta más eficaz para hacer "tangible" un producto artístico que el cliente no
+puede ver antes de programarlo.
+
+Una tarea que ocupó también un tiempo considerable fue la traducción de contenidos del
+sitio web al árabe, a partir del inglés y el español. Aunque el árabe no forma parte de
+mi formación oficial en LEA, poseo esta lengua de forma autónoma. Esta tarea respondía
+a la estrategia de expansión de Flamenco Agency hacia los mercados de Oriente Medio y
+del Norte de África, como ilustra su presencia histórica en el Royal Opera House Muscat
+(Omán) o en el Emirates Palace Auditorium (Emiratos Árabes Unidos). La traducción al
+árabe requería una atención particular al registro formal apropiado para un contexto
+cultural institucional, así como a la escritura de derecha a izquierda, lo que implicaba
+también ajustes técnicos en el formato del texto.
+
+El conjunto de estas tareas se organizaba según un ritmo semanal muy estructurado. Los
+lunes por la mañana tenía lugar una reunión breve en torno al ordenador del señor
+Trancoso, que utilizaba su tablet ReMarkable para retomar las tareas de la semana
+anterior y hacía un punto con cada becario: daba su feedback, corregía si era necesario
+y asignaba las nuevas tareas escribiéndolas directamente delante del equipo. Una captura
+de pantalla de estas tareas se enviaba al grupo de WhatsApp del equipo, para que todos
+tuviéramos presentes los objetivos de la semana. Los martes eran el día oficial de envío
+de propuestas: según el director, es el mejor día de la semana para enviar correos
+profesionales, ya que aumenta las probabilidades de que sean vistos y respondidos, de
+modo que el objetivo era enviar ese día los correos elaborados y preparados durante la
+semana anterior.
+
+
+I.4 Resultados y competencias adquiridas
+
+Es importante ser honesta sobre los resultados obtenidos durante mi período de prácticas.
+Las campañas de prospección no generaron contratos firmados. Sin embargo, recibimos
+distintos tipos de respuestas que reflejan bien la realidad del sector: algunos contactos
+indicaron que ya tenían la programación confirmada para 2027, otros señalaron que no
+disponían de presupuesto en ese momento, y algunos expresaron interés para temporadas
+futuras, con respuestas del tipo "tendremos en cuenta su propuesta" o "contacten con
+nosotros el próximo año". Estos resultados son coherentes con el ciclo de venta B2B en el
+sector cultural: los ciclos de decisión son largos —a veces de uno a dos años—, la
+confianza entre la agencia y los programadores se construye progresivamente, y el objetivo
+de cada campaña no es solo obtener una respuesta inmediata, sino también mantener la
+visibilidad de la empresa ante los decisores internacionales a largo plazo.
+
+Desde el punto de vista técnico, estas prácticas me permitieron dominar varias
+herramientas profesionales. Aprendí a utilizar Mailchimp para diseñar y estructurar
+campañas de email marketing, desde la creación del template hasta la redacción del
+contenido. Trabajé de manera intensiva con Excel y Google Sheets para gestionar, filtrar
+y organizar bases de datos de más de 2.500 contactos. Utilicé también LinkedIn y los
+sitios web de festivales internacionales como herramientas de investigación para completar
+los datos de prospección, y OneDrive para el almacenamiento y la organización compartida
+de documentos en equipo.
+
+En cuanto a las competencias transversales, gané autonomía en la organización de mi
+trabajo diario y en la búsqueda de información. Desarrollé la capacidad de analizar el
+perfil de un festival o teatro para adaptar el mensaje comercial al destinatario. También
+comprendí mejor el funcionamiento del ciclo de venta B2B en las artes escénicas, desde la
+identificación del lead hasta el seguimiento de la respuesta. Por último, el trabajo en
+equipo con otros becarios en un entorno multicultural e internacional fue una experiencia
+enriquecedora que reforzó mis capacidades de coordinación y comunicación profesional.
+
+En el plano lingüístico, practiqué la redacción profesional en inglés y en español de
+manera intensiva, adaptando el tono y el registro según el tipo de contacto y el país de
+destino. Realicé también una traducción técnica e institucional hacia el árabe, lo que me
+permitió movilizar una competencia personal al servicio de la estrategia de la empresa. El
+vocabulario especializado del mundo del flamenco y de las artes escénicas, tanto en inglés
+como en español, se desarrollará con más detalle en la Parte II.
+
+La tarea más formadora fue, sin duda, la gestión de la base de datos del Festival de
+Aviñón: clasificar y filtrar más de 2.500 contactos para identificar los leads pertinentes
+fue un trabajo complejo que requería criterio analítico, rigor y perseverancia. Esta
+experiencia me permitió comprender de manera concreta cómo funciona la segmentación de
+mercado en el sector cultural internacional.
+
+A lo largo de los dos meses de prácticas, mi nivel de autonomía evolucionó de manera
+notable. Durante las primeras semanas aprendía los fundamentos: familiarizarme con el
+catálogo, entender las herramientas (Mailchimp, Excel, OneDrive) y observar cómo el señor
+Trancoso y la señora Stainow gestionaban la comunicación con los contactos internacionales;
+las propuestas que redactaba se verificaban más sistemáticamente antes del envío. En la
+segunda mitad del período trabajaba de forma más autónoma: seleccionaba los espectáculos a
+proponer según el perfil del contacto, redactaba los correos directamente y los preparaba
+para el envío del martes sin necesidad de validación constante, y solo los contactos de
+mayor importancia se revisaban con el señor Trancoso antes del envío. Esta progresión
+refleja una integración real en el equipo y una comprensión creciente de los códigos
+profesionales del sector.

@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CV – Ania Alloul</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Calibri', 'Arial', sans-serif;
+    font-size: 11pt;
+    color: #222;
+    background: #fff;
+    max-width: 210mm;
+    margin: 0 auto;
+    padding: 18mm 16mm;
+  }
+
+  /* ── EN-TÊTE ── */
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 6px;
+  }
+
+  .header-left h1 {
+    font-size: 28pt;
+    font-weight: 900;
+    color: #1a1a1a;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+
+  .header-left .subtitle {
+    font-size: 10pt;
+    font-weight: 700;
+    color: #222;
+    margin-top: 2px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  .photo {
+    width: 115px;
+    height: 115px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #ccc;
+  }
+
+  .photo-placeholder {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    border: 2px dashed #aaa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 8pt;
+    color: #aaa;
+    text-align: center;
+    flex-shrink: 0;
+  }
+
+  /* ── CONTACT ── */
+  .contact {
+    text-align: center;
+    font-size: 10pt;
+    color: #333;
+    margin: 8px 0 14px 0;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    padding: 5px 0;
+  }
+
+  .contact span { margin: 0 6px; }
+
+  /* ── TITRE DE SECTION ── */
+  .section-title {
+    background: linear-gradient(to right, #2a9d8f, #57cc4d);
+    color: white;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 10.5pt;
+    padding: 4px 12px;
+    margin: 14px 0 10px 0;
+    border-radius: 2px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  /* ── FORMATION ── */
+  .edu-entry { margin-bottom: 10px; }
+
+  .edu-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+
+  .edu-header .degree {
+    font-weight: 700;
+    font-size: 10.5pt;
+  }
+
+  .edu-header .univ {
+    font-weight: 700;
+    font-size: 10.5pt;
+    text-align: right;
+    white-space: nowrap;
+    margin-left: 10px;
+  }
+
+  .edu-entry ul {
+    margin-top: 3px;
+    margin-left: 18px;
+  }
+
+  .edu-entry ul li {
+    margin-bottom: 2px;
+    font-size: 10.5pt;
+    line-height: 1.4;
+  }
+
+  /* ── EXPÉRIENCE ── */
+  .exp-entry { margin-bottom: 10px; }
+
+  .exp-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+  }
+
+  .exp-header .job {
+    font-weight: 700;
+    font-size: 10.5pt;
+  }
+
+  .exp-header .dates {
+    font-weight: 700;
+    font-size: 10.5pt;
+    white-space: nowrap;
+    margin-left: 10px;
+  }
+
+  .exp-entry ul {
+    margin-top: 3px;
+    margin-left: 18px;
+  }
+
+  .exp-entry ul li {
+    margin-bottom: 2px;
+    font-size: 10.5pt;
+    line-height: 1.4;
+  }
+
+  /* ── COMPÉTENCES 3 COLONNES ── */
+  .competences {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 0;
+    margin-top: 4px;
+  }
+
+  .comp-col .section-title {
+    margin-top: 0;
+    font-size: 9.5pt;
+  }
+
+  .comp-col ul {
+    margin-left: 18px;
+    margin-top: 4px;
+  }
+
+  .comp-col ul li {
+    font-size: 10.5pt;
+    line-height: 1.5;
+  }
+
+  .comp-col .comp-text {
+    font-size: 10.5pt;
+    line-height: 1.7;
+    padding: 4px 0 0 4px;
+  }
+
+  /* ── VOLONTARIAT ── */
+  .vol-entry { margin-bottom: 6px; }
+  .vol-entry .vol-title { font-weight: 700; font-size: 10.5pt; }
+  .vol-entry ul { margin-left: 18px; margin-top: 3px; }
+  .vol-entry ul li { font-size: 10.5pt; line-height: 1.4; }
+</style>
+</head>
+<body>
+
+<!-- EN-TÊTE -->
+<div class="header">
+  <div class="header-left">
+    <h1>ANIA ALLOUL</h1>
+    <div class="subtitle">Admission en Master LEA Parcours Commerce International</div>
+  </div>
+  <img class="photo" src="Screenshot 2026-05-24 173329.png" alt="Photo Ania Alloul">
+</div>
+
+<!-- CONTACT -->
+<div class="contact">
+  <span>Montpellier, France</span> |
+  <span>aniasarah98@gmail.com</span> |
+  <span>+33 07 59 65 62 01</span> |
+  <span>linkedin.com/in/aniasarahalloul</span>
+</div>
+
+<!-- FORMATION ACADÉMIQUE -->
+<div class="section-title">Formation Académique</div>
+
+<div class="edu-entry">
+  <div class="edu-header">
+    <span class="degree">Licence en Langues Etrangères Appliquées et Management international (Anglais–Espagnol)</span>
+    <span class="univ">Université Paul-Valéry Montpellier &nbsp; 2024–2025</span>
+  </div>
+  <ul>
+    <li>Formation en traduction et gestion interculturelle des entreprises, combinée à des connaissances en économie, comptabilité, marketing, droit commercial international et Incoterms, appliquées au commerce international.</li>
+  </ul>
+</div>
+
+<div class="edu-entry">
+  <div class="edu-header">
+    <span class="degree">Master en Traduction Anglais–Arabe</span>
+    <span class="univ">Université d'Alger 2 (Algérie) &nbsp; 2018–2020</span>
+  </div>
+  <ul>
+    <li>Spécialisation en traduction professionnelle et terminologie technique et juridique.</li>
+  </ul>
+</div>
+
+<div class="edu-entry">
+  <div class="edu-header">
+    <span class="degree">Licence en Langue Anglaise – Linguistique</span>
+    <span class="univ">Université d'Alger 2 (Algérie) &nbsp; 2015–2018</span>
+  </div>
+  <ul>
+    <li>Étude de la structure et de l'enseignement de l'anglais, communication et analyse linguistique.</li>
+  </ul>
+</div>
+
+<!-- EXPÉRIENCE PROFESSIONNELLE -->
+<div class="section-title">Expérience Professionnelle</div>
+
+<div class="exp-entry">
+  <div class="exp-header">
+    <span class="job">Assistante commercial – Webhelp, Athènes (Grèce)</span>
+    <span class="dates">Juin 2024 – Octobre 2024</span>
+  </div>
+  <ul>
+    <li>Gestion des opérations après-vente du e-commerce international (adidas France), suivi logistique des commandes et des retours, interface client multicanal via Salesforce (CRM)</li>
+    <li>Fidélisation de la clientèle dans un contexte commercial international (marché francophone), conseil en ligne et résolution des litiges</li>
+  </ul>
+</div>
+
+<div class="exp-entry">
+  <div class="exp-header">
+    <span class="job">Agente d'assistance technique – Teleperformance, Athènes (Grèce)</span>
+    <span class="dates">Novembre 2022 – Juin 2024</span>
+  </div>
+  <ul>
+    <li>Assistance technique pour Google Business Profile (marché francophone).</li>
+    <li>Communication multicanale (e-mail, chat, téléphone).</li>
+    <li>Analyse et résolution rapide et précise des incidents.</li>
+  </ul>
+</div>
+
+<div class="exp-entry">
+  <div class="exp-header">
+    <span class="job">Rédactrice web – TransfoNum (télétravail)</span>
+    <span class="dates">2021–2022</span>
+  </div>
+  <ul>
+    <li>Rédaction de contenus SEO (économie, santé, société, voyages).</li>
+    <li>Recherche et analyse des tendances numériques.</li>
+  </ul>
+</div>
+
+<div class="exp-entry">
+  <div class="exp-header">
+    <span class="job">Enseignante d'anglais – Royal School, Alger (Algérie)</span>
+    <span class="dates">2018–2021</span>
+  </div>
+  <ul>
+    <li>Enseignement de l'anglais oral et écrit aux enfants et aux adultes.</li>
+    <li>Conception d'activités de compréhension et d'expression.</li>
+  </ul>
+</div>
+
+<div class="exp-entry">
+  <div class="exp-header">
+    <span class="job">Stage en traduction – Elias Pro Services, Alger (Algérie)</span>
+    <span class="dates">Mars – Septembre 2021</span>
+  </div>
+  <ul>
+    <li>Traduction juridique et scientifique (anglais-français-arabe).</li>
+    <li>Révision et sous-titrage de contenus audiovisuels.</li>
+  </ul>
+</div>
+
+<!-- COMPÉTENCES -->
+<div class="competences">
+  <div class="comp-col">
+    <div class="section-title">Compétences Linguistiques</div>
+    <ul>
+      <li>Français : bilingue</li>
+      <li>Anglais : C1</li>
+      <li>Espagnol : avancé</li>
+      <li>Arabe : langue maternelle</li>
+      <li>Berbère : langue maternelle</li>
+    </ul>
+  </div>
+  <div class="comp-col">
+    <div class="section-title">Personnelles</div>
+    <div class="comp-text">
+      Communication interculturelle<br>
+      Rigueur · Adaptabilité<br>
+      Gestion du temps<br>
+      Esprit analytique<br>
+      Travail d'équipe
+    </div>
+  </div>
+  <div class="comp-col">
+    <div class="section-title">Informatiques</div>
+    <div class="comp-text">
+      MS Office<br>
+      Salesforce (CRM)<br>
+      WordPress
+    </div>
+  </div>
+</div>
+
+<!-- VOLONTARIAT INTERNATIONAL -->
+<div class="section-title">Volontariat International</div>
+
+<div class="vol-entry">
+  <div class="vol-title">AIESEC Vietnam – Hanoï (2019)</div>
+  <ul>
+    <li>Enseignement de l'anglais aux enfants au Pandora Education Park (programme ODD 4 « Éducation de qualité »)</li>
+  </ul>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,678 @@
+===== PAGE 1 =====
+LucreciaDiaz
+MARKETING
+MANAGEMENTIN
+FLAMENCOAGENCY
+ALLYOUNEEDTOKNOW!
+
+===== PAGE 2 =====
+Contents
+1.B2BMARKETINGMANAGEMENT
+2.SERVICEMARKETING
+3.EMAILMARKETING
+Email marketing process
+Response-basedplan
+Email design
+Email content
+Timing&Frequency
+4.SALES&MARKETING
+5.CUSTOMERRELATIONSHIP
+MANAGEMENT
+Emma Plunkett
+
+===== PAGE 3 =====
+PREFACE
+Deartrainees,
+Asyoumaynotice,FlamencoAgencyisaB2Bcompany
+thatofferstailor-madeflamencoshowsforoperahouses,
+theatresand artsorganizations.Duringyourinternship in
+FlamencoAgency,yourmaintaskistocreateemail
+details,youwillhaveanopportunitytogainexperience
+inbuildingcustomerlistsandmanagingemail
+marketingcampaignsinMailchimpweb-based
+application.
+Inorder toprepareforyoursuccess inFlamencoAgency,
+thisMarketingManual iscreated toprovideinformation
+youmayneedforyourwork.Informationgiveninthis
+manualismostlypracticalwithtips,imagesand
+illustrations.Wehopethatyoucanfind thismanual
+usefulandrelevant.
+Withbestregards,
+Author
+
+===== PAGE 4 =====
+B2B
+MARKETING
+MANAGEMENT
+INTRODUCTION
+Asyoumayknow,FlamencoAgencymainlyoffersservices(tailor-made
+flamencoshows)forotherbusinesspartnerssuchasoperahouses,
+TIPS
+theatersorartsorganizations.Therefore.inordertocreateasuccessful
+marketingcampaign,itisessentialformarketerstounderstandthe
+characteristicsofB2Bmarketsaswellastheirbuyingbehaviorwhich
+CONTACTTHERIGHT
+aregreatlydifferentfromthoseofB2C.
+PERSONFORBETTER
+RESULT!
+Decider
+gives approval
+Asmentioned earlier.
+knowingwhoinvolvesin
+Buyer
+negotiatesterms and
+thebusinessbuying
+Initiator
+place contracts
+perceives a need
+processandtheirroles
+Influencer
+and influencesare crucial
+adviceson
+formarketers.Solet'stry
+pecifications/suppliers
+tofindthemost
+influential person in
+Gatekeeper
+User
+operahouses.theatersor
+providesinformation
+feedback
+artsorganizationsthat
+youwanttocontact.For
+Stone etal.'sbusiness to businessbuyingmodel
+big operahouses,they
+probablyare artistic
+BUSINESS
+BUSINESSBUYER
+directors,musicdirectors
+or artisticcoordinators.
+MARKETS
+BEHAVIOUR
+For small organizations,
+youmayneed tocontact
+Thedecision-makingprocessis
+a CEO,directoror
+UnlikeB2Cmarkets,B2B
+carriedoutbydifferentpeople
+operatingmanagerto
+marketsnormallyhavefewer
+withdifferentrolesasshownin
+presentyour salesoffer.
+customersbutconcentrated
+figure above.
+buyingpowerandagreater
+totalvalueinoverall.
+INITIATORS:requestsomething
+needstobepurchased.
+Therelationshipbetweenbuyer
+USERS:useproduct/serviceand
+B
+BUSINESS
+andsupplierisspecial ina
+mayproposetobuy.
+sensethatitrequiressellerto
+INFLUENCERS:influencethe
+keepclosecontactwithits
+buying decisionsuch as
+2
+TO
+buyerforalongperiodoftime.
+technicians.
+DECIDERS:decideproduct
+requirementsorsuppliers
+Apersonalsellingapproach
+B
+BUSINESS
+BUYERS:areauthorizedto
+throughemailorphonecallis
+selectsuppliersandnegotiate
+regardedasamorepowerful
+buyingterms.
+tooltoofferpromotionorsales
+CATEKEEPERS:preventsellers
+tobusinesscustomersthan
+fromdirectlycontactingsome
+massadvertisingcampaigns.
+membersofbuyingcenter.
+
+===== PAGE 5 =====
+SERVICE
+MARKETING
+INTRODUCTION
+WhencreatingamarketingcampaignforaservicefirmlikeFlamenco
+Agency.marketersshouldbeawareofthenatureandcharacteristicsof
+TIPS
+serviceasshowninthefigurebelow:Intangibility.inseparability.
+variabilityandperishability.
+·Keepinclosecontact
+withcustomersto
+Intangibility
+ensureallprocessesof
+Inseparability
+Servicescannotbe seen,tasted,
+Servicescannotbe separated from
+the serviceprovided
+felt,heardrsmelledre
+theirproviders
+arewell-supported.
+purchase
+.Emphasize service
+qualityandservice
+Services
+support inpromotional
+emailstoenhance
+customer'sattention
+Variability
+and engagement.
+Perishability
+Qualityofservicesdependsonwho
+Servicescannotbestoredforlater
+providesthemandwhen,where,
+andhow
+saleoruse
+FourservicecharacteristicsaccordingtoKotler&Armstrong
+口
+SERVICE LOGIC
+?
+Duetotheuniquecharacteristicofservice,marketers
+arerecommendedtoobtainservice-basedbusiness
+logicwhichis:
+"Tofacilitateprocessesthatsuportcustomers'valuecreation"
+ChristianGronroos
+
+===== PAGE 6 =====
+EMAIL MARKETING
+L.
+INFO
+InFlamencoAgency.
+email marketing
+campaignsare created
+byaweb-basedemail
+application-Mailchimp.
+Atthebeginningofyour
+internship.you will
+@
+receiveaninvitationfrom
+themanager'saccountto
+join Mailchimp(Check
+yourofficial Flamenco
+Agency email account!).
+Onceyou acceptthe
+invitation,asamarketing
+trainee,you arethen
+allowedto:
+Set up your account
+INTRODUCTION
+(Username,password)
+Createemail
+marketingcampaigns
+Emailmarketingisdefinedasafusionofmarketingsavvyand
+Viewemail
+imaginativecopythatbasically,thesalespitchandcall-to-action
+marketingcampaign
+reports
+emailsaresenttoalistofclients.Moreover,emailcanbeusedfor
+marketer'svariouspurposessinceitisaveryeffectiveandwidely
+usedmarketingcommunicationtool.ItsrolesinB2Bmarketing
+arealsoemphasizedasaninfluentialstrategy.Evenwhen
+responserateislow(whichhappenssometimes)emailmarketing
+isstillassessedasprofitablemethodwithgreatreturnson
+investmentandhighlevelofengagement.
+mailChimp
+Moredetailsabouthowtomakeaneffectiveemailmarketingcampaignare
+discussedinthefollowingpagesofthismarketingmanual.
+
+===== PAGE 7 =====
+EMAIL MARKETING
+EMAILMARKETING
+PROCESS
+1
+COLLECTDATA
+DESIGN EMAIL
+Building email lists
+Creating email content
+Segmenting customers for the
+Setting up email design
+appropriate email marketing
+(template,layout,font,ize,
+campaign.
+color, etc.)
+3
+DELIVER
+TESTANDANALYZE
+Setting up the appropriate
+Sending testing emails to other team
+timing and frequencyfor
+members and your own inbox
+specific email marketing
+campaign:
+Applying A/B split testing
+When &How often?
+Analyzing email campaign results
+REFINE&REPEAT
+
+===== PAGE 8 =====
+EMAILMARKETING
+RESPONSE-BASED
+PLAN
+Don'topen
+Opendon'tclick
+Clickdon'tresponse
+Response
+Newsubjectline,
+Newcreative,
+Newoffer
+Timelyfollow-up
+newtime
+newoffer
+Sincecustomersmayreactdifferentlytoyouremail,itisrecommendedtodividecustomers
+intodifferentgroupsbasedontheirresponsebehavior.
+·Don't open:subject line should berevised forbetter customer's attention orresend
+emailinanothertime.
+Open,don'tclick:continuefollow-upthisgroupwithmoreimpressivedescriptionand
+explanationofthevaluesoffered.
+Click,butdon'tact:extraofferorincentiveshouldbegiventocustomers
+Doact:follow-uptoclosethedealandsendcomplementaryoffersornewofferslater
+
+===== PAGE 9 =====
+EMAILMARKETING
+EMAIL DESIGN
+2 inches
+The top 2inchesofanemail isregarded to
+be the most important part which is usually
+ABOVETHEFOLD
+called"above the fold".The above thefold of
+an email is normally displayed in the email
+Fold line
+preview pane before customers have to
+scroll down.
+2 seconds
+is the timeyouhaveto
+attract readers by your
+email'sabove-the-fold
+part.
+10 seconds
+is the time you have to
+attract readers since they
+have opened your email.
+
+===== PAGE 10 =====
+EMAIL MARKETING
+EMAIL DESIGN
+EMAILDESIGNIN MAILCHIMP
+READY-MADETEMPLATE
+Whenusing Mailchimp to
+design your email.you are able
+touseitsready-made
+templateswhichcreated
+based on differentpurposesof
+email.Itisa quickand useful
+toolwhenyouwanttocreate
+your email template in a short
+period of time.However,ifyou
+wanttomakeyouremailmore
+impressiveand creative,you
+areencouraged tocreateyour
+ownones.
+CREATE YOUROWNTEMPLATE
+Whenyouwanttocreateyour
+owntemplate.whatyouneed
+todoisdrag features(images,
+columns.graphicbutton,etc.)
+DesigningYourEmail
+from therightbox and drop
+theminyourtemplate.
+Sincethefeatureshavealready
+beendisplayed inyouremail.
+clickordouble-clickoneachof
+thesefeaturesforfurther
+Btb ME aNt
+gpet hpe.Y
+adjustmentsand
+hingteeg
+customizations.
+
+===== PAGE 11 =====
+EMAIL MARKETING
+EMAIL DESIGN
+InsertFlamencoAgency's
+FLAMENC
+logotoenhancebrand
+awarenessandbrandcredibility
+Mostimportantcontentshould
+beplacedon theleft.Readers
+LEFT
+willscanyouremail from upper
+lefttolowerright
+Headlineshould bebig.bold and placed
+LEO
+inthetop2inchesofemailbutshould
+notbeoversizedbecauseimportant
+informationotherthanheadlineshould
+alsobedisplayedforcustomerpreview
+Makeiteasyforreaderstoscan
+and skim email byhighlighting
+importantdetailssuchasvalue
+offer,call-to-action or attched
+links.
+Large enough spacing.bold style,
+largefont.image orgraphic
+Click Here
+buttonareconsideredtobe
+useful highlighting tools.
+Donotoveruseimagesinyouremail:do
+notsend emailscontaining onlyimages
+Therulesof thumb forimages:~30%of
+images
+Keep image filessmall and compressed
+Textuallinksinsertedinemail
+shouldbeblueandunderlined
+www.flamencoagency.com
+forthebestvisualeffectiveness.
+
+===== PAGE 12 =====
+EMAIL MARKETING
+EMAILCONTENT
+Punchy,scannalbe & engaging!
+Whenbuildingyouremailcontent,thefollowing8fundamentalparts
+arerecommendedtobeincluded inyouremail;theywillbediscussed in
+this2pages.However,insome specificcases,youcanskip someparts
+whichyouconsiderunneccessary.
+HEADER
+SALUTATION
+Insertcompany'sname and
+Stateagreeting tocustomer
+logo to gain trustfrom email
+readers
+Shouldbepersonalized
+Insertheadlinetittle to
+Using"Dear Ms/Mr"in formal
+strengthenand supportthe
+approach
+subject line.
+INTRODUCTION
+MAIN COPY
+Maximum2-3sentences
+Createforcustomerswhoare
+notconvincedyetorstill
+Mostinformationmustbe
+curiousaboutserviceoffers
+given here:value offer, call-to-
+action tourgecustomerto
+Providemoredetailedand
+reactimmediatelyor
+clear description and
+incentivesforcustomersto
+explanation ofservicesoffers
+continuouslyscroll down to
+see therestofthe email.
+
+===== PAGE 13 =====
+EMAIL MARKETING
+EMAILCONTENT
+Punchy, scannalbe & engaging!
+CLOSE
+6
+SIGNATURE
+Includecall-to-action content
+This is a sign off section
+Insertlinksforcustomerto
+Giveinformationabout
+click and reactafter they have
+Flamenco Agency (links,email,
+seenallneccessaryinformation
+phone number,address)
+UNSUBSCRIBE
+8
+PRIVACY LINKS
+Insertfullprivacystatementor
+Youmaygivecustomeran
+linktofullstatementifterms
+unsubscribeoropt-outoption
+included are long and
+complicated.
+
+===== PAGE 14 =====
+EMAIL MARKETING
+EMAILCONTENT
+MAXIMUM
+MAXIMUM
+65
+2
+KEEP IT SHORT!
+SENTENCESPER
+CHARACTERSPERLINE
+PARAGRAPH
+DESCENDING ORDER
+Importantinformationmustbementioned
+earlierwhilelessessentialone canbeplaced
+OFIMPORTANCE!
+laterinthelowerpartofemail.
+Thereislimited spaceon templatesoitis
+STAY
+foeL
+us
+bettertostayfocused onwhatis truly
+important.
+Insertedlinksshoulddirectreadersto
+BERELEVANT!
+relevantpages,not general homepage,to
+keepcustomersfromwastingtheirtime
+findingwhatexactly theoffer is.
+Youmaysendemailsto thousandsof
+TARGETED&
+subscribersbutontheirpointofview,it isonly
+PERSONALIZED!
+one-to-onesectionsolet'strytomake
+targeted andpersonalized email copy.
+APPROACHABLE&
+Tailoryour languageused in email tomatch
+ENGAGING!
+withyourspecificclients.
+Makesurethatallinformationyoumentioned
+BE ACCURATE!
+inyour email is accurate(spelling.grammar,
+price,contactdetails,etc.).
+RICH MEDIA
+Email canbeblocked becauseoflarge images
+orvideoattachedsoalinktoasitewhereyour
+CONTENT
+clientsareabletoseeordownloadthose
+videosshouldbeinserted.
+
+===== PAGE 15 =====
+EMAIL MARKETING
+TIMING&
+FREQUENCY
+TUESDAY
+MONDAY &THURSDAY
+WEDNESDAY
+FRIDAY
+SUNDAY
+SATURDAY
+10-11AMREADER'SLOCALTIME
+Therearemanydiscussionsaboutthebestdayto launchemail
+campaigns:howeverTuesday is all regarded tobethebestdayof
+theweekwhen openrate isrecorded as thehighest.You can also
+send emailsonMondayorThursdaytogetthepositiveresult.On
+thecontrary.Fridayismarkedasunderrated and openrateisthe
+lowestonSaturday.Ifyouhavetosendemailonweekend,let's
+do it on Sunday night.
+Duringaday.from10-11AM(reader'slocaltime),openrateis
+recorded asthehighestand itisthe timewhenyou maywant to
+sendyouremail.
+Makeyourfollow-upplancarefullybecauseyoudon'twantto
+spam your clients but also don'twant them to forget you. If your
+unsubscriberateunexpectedlyincrease,youmaywanttorevise
+your plan of email frequency.
+
+===== PAGE 16 =====
+SALES &MARKETING
+INTRODUCTION
+TIPS
+Whenemailsmarketingareusedforthemainpurposeofobtainingcustomer
+acquisition,thelinkagebetweensalesandmarketingbecomescloser.
+Marketersnowplayanimportantroleinpartofsalesprocess.Inthiscase,
+marketersareadvisedtocooperatewithsalespeopleorsometimesinsmallto
+Forbettersales
+medium-sizedfirmlikeFlamencoAgency,marketerscanalsotake
+result.continuously
+responsibilityofsalespeople.
+usefollow-upemailto
+nurturequalifiedleads
+and prospects.Do not
+spam theirinboxbutat
+thesametime donotlet
+LEADS
+Generate
+themforgetwhoyouare
+Nurture
+andwhatyoucanoffer
+them.
+Fornurturingleads,
+PROSPECTS
+Qualify
+Nurture
+youcansendstorytelling
+Convert
+emailstogettheir
+attentionandmake
+theminterestedintheart
+CUSTOMERS
+Close
+offlamencodance.
+Follow-up
+Fornurturing
+qualifiedprospects,
+SALESFUNNEL
+appropriateflamenco
+showofferscanbesent
+tothembyemail.
+·Atfirst,leadsaregeneratedfromcompany'sofflinenetworkandonline
+socialnetworksuchaslandingpage,Facebook,Instagram,Vimeo,
+Linkedln,etc.Thisleadgenerationcanbequalifiedandnurtured by
+sendingthempromotionalorstorytellingemails.
+Fromalistofhighpotentialleads,prospectsthatshowtheirinterestin
+company'sproductsorservicescanbeidentifiedthenqualifiedforfurther
+SALES
+approach.Classificationcriteriausedinthatqualificationprocesscanbe
+financialsituation,geographicalconditionordevelopmentpossibilities.
+·Oncequalifiedprospectsaresuccessfullyconvinced,salespeopleshould
+closethedealtoconvertthemtocustomers.Afterthat,follow-upemails
+canbesenttothemconcerningcomplementaryoffers,newoffersor
+loyaltyimprovement.
+
+===== PAGE 17 =====
+CUSTOMER RELATIONSHIP
+MANAGEMENT
+INTRODUCTION
+Generallycustomersatisfactionandcustomerloyaltyaretwovital
+elementsintermofCRM.Bystrengtheningcustomersatisfactionand
+TIPS
+buildingupcustomerloyalty.FlamencoAgencyobtainsthepossibility
+toenhanceitsbusinessprofitinoverall.Inadditiontothat,you may
+CLASSIFYYOURLISTOF
+wanttocreateemailcampaignstotakepartintheimprovementof
+CUSTOMERSINTOTHE
+customersatisfactionandcustomerloyaltyandattheend,increasethe
+APPROPRIATECROUP!
+customerretentionrate.
+Repeat purchase
+Inordertoenhance
+High
+Low
+customerretetionrate
+100
+Unpaid salespeople
+Strong
+throughyouremail
+80
+campaigns.youmay
+(%)
+LOYALS
+LATENT
+wanttoclassifytheminto
+60
+LOYALTY
+differentgroupsbased on
+40
+theirlevel ofsatisfaction
+and loyalty.
+20
+SPURIOUS
+NO
+LOYALTY
+LOYALTY
+Customerswhoare"so
+Terrorists
+Customer satisfaction
+so”satisfied and satisfied
+areconsideredtohave
+ActingDirector
+Acting Director
+vaguedifferencesoyou
+maywanttogroupboth
+ofthemin1group
+CUSTOMER
+CUSTOMER
+insteadof2sothata
+SATISFACTION
+LOYALTY
+same strategy canbe
+appliedforthem.
+Customersatisfactionbaseson
+Behavioral loyaltybasesonthe
+Beconscious todefine
+customerexperienceandhow
+levelofrecencyofpurchase,
+whetheryourclients
+theirexpectationsarereplied.
+frequencyofpurchaseand
+belongtogroupof truly
+Basically.customersare
+monetaryofpurchase.Lower
+loyaltyor spurious loyalty.
+satisfiedwhentheir
+scoreofthosevariablesrefersto
+weakercustomerloyaltyand
+expectationhasbeenfulfilled.
+viceversa.
+Differentlevelsofcustomer
+sales
+Attitudinal loyaltybaseson
+satisfactioninfluencetheir
+attitudeelementssuchas
+repeatpurchaseintendas
+beliefsandfeelings.Levelsof
+CRM
+showninthefigureabove.
+loyaltyalsoaffectcustomer
+Repurchaserateissignificantly
+retentionasshowninfigure
+highwhencustomersarevery
+above.Dependingonclient's
+satisfied.Asaresult,aneffective
+relativeattitudeand
+feedback
+waytoboostbuyersrepeat
+repurchaserate,theyshouldbe
+dividedinto4gorups:loyals,
+purchaserateisputting
+latentloyalty,spuriousloyalty
+enoughefforttomakethem
+andnoloyalty.
+frommediumlevelof
+satisfactiontoverysatisfied.
+
+===== PAGE 18 =====
+Jharlke
+you!
+Thankyou for reading thisMarketingManual and beinga partof
+FlamencoAgency!Wehope thatthismanualwillserve asyourclose
+friend"during your time in Flamenco Agency.
+Wewishyou unforgettablemomentsinSeville and all yourworkswill
+be completed effectively and efficiently asyou planned.
+Withbestregards,
+Author
+LIVE SIMPLY.DREAM BIG.BE GRATEFUL.LAUGH LOTS.
